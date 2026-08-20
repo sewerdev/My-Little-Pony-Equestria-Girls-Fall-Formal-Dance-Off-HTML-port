@@ -1,0 +1,14 @@
+@font-face{font-family:'StoveTop';src:url('StoveTop.ttf') format('truetype');font-display:block}
+@font-face{font-family:'Pangolin';src:url('Pangolin.ttf') format('truetype');font-display:block}
+*{margin:0;padding:0;box-sizing:border-box;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+  -webkit-touch-callout:none;
+  -webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+html,body{height:100%;background:#140a1e;overflow:hidden;
+  font-family:'StoveTop','Comic Sans MS',cursive;overscroll-behavior:none}
+#wrap{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
+#stage{display:block;background:#000;box-shadow:0 0 60px rgba(120,40,160,.5);
+  image-rendering:auto;cursor:default;touch-action:manipulation;outline:none;
+  -webkit-tap-highlight-color:transparent}
+#stage:focus,#stage:active{outline:none}
+
