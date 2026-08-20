@@ -1,7 +1,13 @@
 # Equestria Girls: Fall Formal Dance-Off – HTML5
 
 <p align="center">
-  <img src=<img width="2400" height="1080" alt="Screenshot_2026-08-21-00-42-42-104_com android chrome" src="https://github.com/user-attachments/assets/088d0394-dae2-4ae4-a6a8-5c14cbe5836a" alt="image" width="100%">
+  <img 
+    width="2400" 
+    height="1080" 
+    alt="Screenshot_2026-08-21-00-42-42-104_com android chrome" 
+    src="https://github.com/user-attachments/assets/d846f2fb-ef4e-4136-95e2-b3a1fd41fc60" 
+    width="100%"
+  >
 </p>
 
 A browser port of the Flash game **My Little Pony: Equestria Girls – Fall Formal
