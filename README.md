@@ -124,8 +124,6 @@ distribution. And for the record – copyright law can go to hell.
 
 ---
 
-<details>
-  
 # Русский
 
 # Equestria Girls: Fall Formal Dance-Off – HTML5
